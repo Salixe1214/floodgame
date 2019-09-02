@@ -2,19 +2,23 @@ h1
 {
     color: red;
     font-size: 3em;
+    font-weight: 300;
 }
 
 .g
 {
   color: blue;
   font-size: 1.5em;
+  text-decoration: overline;
 }
 .uno, p
 {
   color: grey;
   font-size: 1em;
+  text-align: justify;
 }
 em
 {
   color: red;
+  font-style: normal;
 }
