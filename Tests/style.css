@@ -22,3 +22,9 @@ em
   color: red;
   font-style: normal;
 }
+
+body
+{
+  background-color: black;
+  color: white;
+}
